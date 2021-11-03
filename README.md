@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @kccuber-scratch
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+# kccuber-scratch
+Hi, I am [kccuber on Scratch](https://scratch.mit.edu/users/kccuber).
+
+I like JavaScript and Svelte.
+
+
 
 <!---
 kccuber-scratch/kccuber-scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
