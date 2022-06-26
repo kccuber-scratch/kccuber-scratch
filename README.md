@@ -1,7 +1,9 @@
 # kccuber-scratch
 Hi, I am [kccuber on Scratch](https://scratch.mit.edu/users/kccuber).
 
-I like JavaScript and Svelte.
+I like:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,nodejs,py,bash,electron,tailwind,git,github,linux,powershell,vite,vscode)](https://skillicons.dev)
 
 Here's my profile trophies:
 
